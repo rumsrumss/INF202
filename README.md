@@ -17,7 +17,7 @@ In the subfolder `c++`, you can find the solution written in C++. A
 `CMakeLists.txt` is provided, so if you want, you can create a project for the IDE of your choice using [CMake](https://cmake.org/).
 
 ### Java Version
-You can find the solution in Java in the subfolder ' java'.
+You can find the solution in Java in the subfolder `java`.
 Either compile the classes by hand or create a project in the IDE of your choice.
 
 ### Python Version
